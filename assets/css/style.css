@@ -1,0 +1,44 @@
+.panel {
+	background: black ;
+	width: 40% ;
+	color: white ;
+	margin-left: auto ;
+	margin-right: auto ;
+	margin-top: 40px ;
+	text-align: center;
+}
+
+body {
+	background: url(https://blogs-images.forbes.com/olliebarder/files/2017/10/sonic_movie.jpg);
+	background-size: 100% 900px;
+	background-repeat: no-repeat;
+	background-position: center top;
+}
+
+#crystalIdOne {
+background: url(https://i.imgur.com/Zh6VUve.png) no-repeat;
+background-size: 100%;
+width: 100px ;
+height: 170px ;
+}
+
+#crystalIdTwo {
+background: url(https://i.imgur.com/WO02kWr.png) no-repeat;	
+background-size: 100%;
+width: 100px ;
+height: 170px ;
+}
+
+#crystalIdThree {
+background: url(https://i.imgur.com/zblniq4.png) no-repeat;	
+background-size: 100%;
+width: 100px ;
+height: 170px ;
+}
+
+#crystalIdFour {
+background: url(https://i.imgur.com/RwVtymr.png) no-repeat;	
+background-size: 100%;
+width: 100px ;
+height: 170px ;
+}
